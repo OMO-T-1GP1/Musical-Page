@@ -12,7 +12,7 @@ module.exports = {
         lightpink:'#f7f7f7',
       },
       screens: {
-        lg: "1024px",
+        lg: "1280px",
         xl: "1440px",
         sm: "375px",
         xs: "360px",
