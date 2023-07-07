@@ -10,6 +10,7 @@ module.exports = {
         orangishred:'#ec5242',
         darkishwhite:'#e1e1e1',
         lightpink:'#f7f7f7',
+        lightdark:'#2D4356',
       },
       screens: {
         lg: "1280px",
